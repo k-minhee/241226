@@ -39,6 +39,7 @@ header .right_menu li:last-child a {
 .bnr {
     height: 800px; text-align: center;
     background-image: url(../images/bg_img.png);
+    background-position: center; background-size: cover;
     padding-top: 240px;
     position: relative;
 }
