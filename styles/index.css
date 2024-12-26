@@ -58,7 +58,7 @@ header .right_menu li:last-child a {
 }
 .bnr a {}
 /* =============================1. 객실소개 */
-main {}
+main {margin-bottom: 116px;}
 main .wrap1 {}
 main .wrap1 .t1 {text-align: left;}
 main .wrap1 .room_wrap {
